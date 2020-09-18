@@ -1,0 +1,7 @@
+[
+  {
+    "name": "archive-%TIMESTAMP%.zip",
+    "mimeType": "application/zip",
+    "path": "data/archive.zip"
+  }
+]

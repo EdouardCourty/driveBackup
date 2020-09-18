@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/home/edouard/containers/nginx",
+    "type": "directory",
+    "destinationPath": "/nginx"
+  },
+  {
+    "path": [
+      "/home/edouard/containers/mongo/docker-compose.yml",
+      "/home/edouard/containers/mongo/init.js",
+      "/home/edouard/containers/mongo/Makefile"
+    ],
+    "type": "file",
+    "destinationPath": "/mongo"
+  }
+]
