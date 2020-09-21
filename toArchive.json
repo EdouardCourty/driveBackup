@@ -12,5 +12,15 @@
     ],
     "type": "file",
     "destinationPath": "/mongo"
+  },
+  {
+    "path": "/home/edouard/containers/mariadb",
+    "type": "directory",
+    "destinationPath": "/mariadb"
+  },
+  {
+    "path": "/home/edouard/containers/portainer",
+    "type": "directory",
+    "destinationPath": "/portainer"
   }
 ]
